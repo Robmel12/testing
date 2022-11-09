@@ -1,0 +1,3 @@
+function newThing(){
+    let newTHing;
+}
